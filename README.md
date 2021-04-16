@@ -1,5 +1,5 @@
 # Meh Flutter UI Series: login_pink
-pink bunny login, *now that I've thought about it, it sounds like a porn app*, **nice**, in my series of *meh* flutter UI
+pink bunny login, *now that I've thought about it, it sounds like a porn app*, **noice**
 
 ![bunny login](./loginpage.PNG)
 

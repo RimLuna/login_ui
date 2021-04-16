@@ -1,2 +1,6 @@
-# login_ui
-Flutter login UI, code is ugly, deal with it.
+# login_pink
+pink bunny login, *now that I've thought about it, it sounds like a porn app*, **nice**, in my series of *meh* flutter UI
+
+![bunny login](./loginpage.PNG)
+
+![comrade home](./homepage.PNG)
